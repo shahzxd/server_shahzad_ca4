@@ -146,8 +146,7 @@ footer {
                     @endif
                 @endif
             </div>
-            <p>Empowering educators, students, and parents with efficient tools for streamlined academic management.</p>
-        </div>
+                </div>
     </main>
 
     <footer>
